@@ -69,7 +69,7 @@
           <br>Redis
       </td>
       <td align="center" width="96">
-          <img src="https://www.gstatic.com/devrel-devsite/prod/v1698cdd3153b47734bb6d9d8688c4490898207543be76b2c5805f109c27c7695/firebase/images/touchicon-180.png" width="48" height="48" alt="Firebase" />
+          <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
           <br>Firebase
       </td>
       <td align="center" width="96">
