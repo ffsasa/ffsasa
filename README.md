@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
 
-- 👨‍💻 All of my projects are available at https://github.com/ffsasa
+- 👨‍💻 All of my projects are available at **https://github.com/ffsasa**
 
 - 💬 Ask me about **Java, C#**
 
