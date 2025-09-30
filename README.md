@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tạ Ngọc An</h1>
-<h3 align="center">Embrace the bugs, for they teach us the value of perseverance and creativity.</h3>
+<h3 align="center">"Code is like a puzzle — each bug is just another piece waiting to be solved."</h3>
 
-- 🌱 I’m currently learning **Spigot Plugin API, Discord Bot Development**
+- 🌱 I’m currently exploring **CI/CD pipelines, containerization, and scalable backend systems**
 
 - 👨‍💻 All of my projects are available at **https://github.com/ffsasa**
 
