@@ -60,6 +60,7 @@
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
           <br>MySQL
+      </td>
       <td align="center" width="96">
           <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
           <br>Docker
@@ -82,12 +83,22 @@
 
 <h3 align="center">💻 My Stats! 💻</h3>
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ffsasa&hide_border=true&theme=transparent&show_icons=true&include_all_commits=true&title_color=007ACC&icon_color=007ACC&text_color=007ACC" />
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffsasa&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320&title_color=007ACC&text_color=007ACC" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img height="200"
+           src="https://github-readme-stats.vercel.app/api?username=ffsasa&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=007ACC&amp;icon_color=007ACC&amp;text_color=007ACC&amp;cache_seconds=7200" />
+    </td>
+    <td align="center" valign="top">
+      <img height="200"
+           src="https://github-readme-stats.vercel.app/api/top-langs?username=ffsasa&amp;layout=compact&amp;langs_count=8&amp;card_width=320&amp;hide_border=true&amp;theme=transparent&amp;title_color=007ACC&amp;text_color=007ACC&amp;cache_seconds=7200" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffsasa&theme=transparent&hide_border=true&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&currStreakNum=FF6B00&sideLabels=FF6B00&sideNums=FF6B00" />
+  <img height="170"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ffsasa&amp;theme=transparent&amp;hide_border=true&amp;ring=FF6B00&amp;fire=FF6B00&amp;currStreakLabel=FF6B00&amp;currStreakNum=FF6B00&amp;sideLabels=FF6B00&amp;sideNums=FF6B00" />
 </p>
+
+
